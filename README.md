@@ -1,15 +1,13 @@
-# openfireands一mack
-mdtest
 # Openfire+smack
 
-#### 前言
+### 前言
 
 ###### 出于对markdown文件的编写练手，结合最近的兴趣工程smack+openfire的xmpp协议即时聊天。接下来文章将会涉及关于openfire安装(Linux平台)、基础设置、卸载，smack包导入及基本api的使用。
 -------
 
 ## openfire部分
 
-#### 1.介绍
+### 1.介绍
 
 ##### 什么是openfire？
 
