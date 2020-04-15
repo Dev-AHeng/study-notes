@@ -572,7 +572,3 @@ firewall-cmd --permanent --zone=public --remove-port=8080/tcp
 8080/tcp WWW代理开放此端口
 39000-40000/tcp
 ```
-
-
-
-
