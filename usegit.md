@@ -16,10 +16,16 @@
 ###### 将当前目录下修改的所有代码从工作区添加到暂存区
 ###### .的意思是添加目录下所有文件
 
-### 5.文件注释
- `git commit -m "注释内容"` 
+###### 添加单个文件：
+ `git add '文件'` 
 
-### 6.提交
+### 5.查看状态
+ `git status` 
+
+### 6.文件注释
+ `git commit -m '注释内容'` 
+
+### 7.提交(坑：提交之前要先克隆)
  `git push 你github仓库地址` ，例如：
 
  `git push https://github.com/xiaoheng666/openfireandsmack.git` 
