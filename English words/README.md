@@ -380,3 +380,40 @@ disagree 不同意
 with 有 以 用 同...一起 赞成 关于 就
 ```
 
+-------
+
+9.20-Apr-18
+
+```
+capital 首都 大写 大写的
+belief 信仰 被信仰之物
+hasten 扣住 
+daily 日常 每天的
+wayside 路边
+band 乐队 帮伙
+fact 事实 真相 实际
+wife 妻子
+bridegroom 新郎
+probably 或许 大概
+season 季节 时期
+family name 姓氏
+raw 生的 未加工的
+aresome 棒极了的 极好的 引起敬畏的 可怕的
+look up 查找
+blow 吹 吹动 爆炸 打击
+level 水平 等级 标准
+mouth 嘴巴
+unable 不能的 不会的
+regret 后悔 懊悔 遗憾
+journey 旅行 旅程
+reject 拒绝
+chips 炸土豆条
+such 那么 这样的 那样的 人 事物
+accent 口音 腔调
+hand truck 手推车
+man-made 人造的 人工的 合成的
+seldom 很少 不常
+```
+
+
+
